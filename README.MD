@@ -12,7 +12,7 @@ Repositorio para armazenar resumos sobre Git e GitHub do bootcamp da santander h
 
 | Aulas | Resumos |
 |-------|---------|
-|Gravando Alterações no repositorio Local | Resumo
+|Gravando Alterações no repositorio Local | Resumos
 
 
 ##🔍 referências
